@@ -25,11 +25,18 @@ O **EasyOrder** é um sistema de gerenciamento de pedidos que simula uma aplica�
 
 ### 1. Clonar o Repositório
 
-```bash
-git clone https://github.com/seu-usuario/easyorder.git
-cd easyorder
-```
+* Via HTTPS
 
+```bash
+git clone https://github.com/DevOps-Uninter/trabalhodevops.git
+cd trabalhodevops
+```
+* Via SSH
+
+```bash
+git git@github.com:DevOps-Uninter/trabalhodevops.git
+cd trabalhodevops
+```
 ### 2. Criar Ambiente Virtual
 
 ```bash
